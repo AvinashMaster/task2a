@@ -1,0 +1,8 @@
+.contaier{
+    margin: 100px auto 0 ;
+    padding: 20px;
+    width: 500px;
+    box-shadow: 10px 10px 20px gray;
+    border: 1px solid black;
+
+}
